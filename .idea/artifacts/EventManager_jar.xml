@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EventManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EventManager_jar</output-path>
+    <root id="archive" name="EventManager.jar">
+      <element id="module-output" name="EventManager" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/mysql-connector-java-8.0.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
